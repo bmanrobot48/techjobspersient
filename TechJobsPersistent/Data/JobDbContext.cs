@@ -1,6 +1,5 @@
 ﻿using TechJobsPersistent.Models;
 using Microsoft.EntityFrameworkCore;
-
 namespace TechJobsPersistent.Data
 {
     public class JobDbContext : DbContext
